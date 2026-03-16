@@ -12,11 +12,9 @@
 ---
 
 ## 🖥️ Screenshots
-
 | Mobile Reviews Explorer | Compare Models |
 |---|---|
-| <img src="screenshots/screenshot_index.png" width="350"/> | <img src="screenshots/screenshot_compare.png" width="350"/> |
-
+| <img src="https://github.com/your-username/your-repo/raw/main/screenshots/screenshot_index.png" width="350"/> | <img src="https://github.com/your-username/your-repo/raw/main/screenshots/screenshot_compare.png" width="350"/> |
 ---
 
 ## ✨ Features
