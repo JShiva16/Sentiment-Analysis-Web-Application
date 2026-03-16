@@ -9,11 +9,6 @@
 > sentiment as **Positive**, **Negative**, or **Neutral** — with an interactive web interface
 > to explore and compare models in real time.
 
----
-
-## 🖥️ Screenshots
-| <img src="https://github.com/JShiva16/mobile-reviews-sentiment/raw/main/screenshots/screenshot_index.png" width="350"/> | <img src="https://github.com/JShiva16/mobile-reviews-sentiment/raw/main/screenshots/screenshot_compare.png" width="350"/> |
----
 
 ## ✨ Features
 
