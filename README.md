@@ -56,7 +56,7 @@ mobile-reviews-sentiment/
 │
 └── templates/
     ├── index.html                   # Main page — Mobile Reviews Explorer
-    └── compare.html                 # Compare Models page
+    └── .html                 # Compare Models page
 ```
 
 ---
