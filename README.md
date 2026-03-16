@@ -12,9 +12,7 @@
 ---
 
 ## 🖥️ Screenshots
-| Mobile Reviews Explorer | Compare Models |
-|---|---|
-| <img src="https://github.com/your-username/your-repo/raw/main/screenshots/screenshot_index.png" width="350"/> | <img src="https://github.com/your-username/your-repo/raw/main/screenshots/screenshot_compare.png" width="350"/> |
+| <img src="https://github.com/JShiva16/mobile-reviews-sentiment/raw/main/screenshots/screenshot_index.png" width="350"/> | <img src="https://github.com/JShiva16/mobile-reviews-sentiment/raw/main/screenshots/screenshot_compare.png" width="350"/> |
 ---
 
 ## ✨ Features
@@ -135,21 +133,6 @@ The dataset (`dataset.csv`) contains mobile product reviews:
 | `product` | Mobile model name |
 | `company` | Brand/manufacturer |
 | `rating` | Star rating (1–5) |
-
----
-
-## 📈 Model Performance
-
-| Metric | Score |
-|---|---|
-| Accuracy | ~XX% |
-| Precision | ~XX% |
-| Recall | ~XX% |
-| F1 Score | ~XX% |
-
-> *(Fill in your actual scores from the Jupyter Notebook)*
-
----
 
 ## 🤝 Contributing
 
