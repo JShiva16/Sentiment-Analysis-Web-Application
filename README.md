@@ -13,17 +13,9 @@
 
 ## 🖥️ Screenshots
 
-### 🔎 Mobile Reviews Explorer
-> Select a company and model to instantly view sentiment analysis of customer reviews.
-
-![Mobile Reviews Explorer](static/screenshot_index.png)
-
----
-
-### ⚖️ Compare Models
-> Choose two different mobile models and compare their sentiment side by side.
-
-![Compare Models](static/screenshot_compare.png)
+| Mobile Reviews Explorer | Compare Models |
+|---|---|
+| <img src="screenshots/screenshot_index.png" width="350"/> | <img src="screenshots/screenshot_compare.png" width="350"/> |
 
 ---
 
