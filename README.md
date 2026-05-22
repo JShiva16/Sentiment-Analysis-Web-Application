@@ -148,8 +148,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/JShiva16)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/jinkashiva)
+- GitHub:https://github.com/JShiva16
+- LinkedIn:https://linkedin.com/in/jinkashiva
 
 ---
 
